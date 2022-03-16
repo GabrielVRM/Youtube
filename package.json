@@ -2,7 +2,7 @@
   "name": "youtubui",
   "private": true,
   "version": "0.0.0",
-  "homepage": "outub/",
+  "homepage": "youtub/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
